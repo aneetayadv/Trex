@@ -165,6 +165,7 @@ function spawnObstacles() {
       case 6: obstacle.addImage(obstacle6);
               break;
       default: break;
+        
     }
     
     //assign scale and lifetime to the obstacle           
